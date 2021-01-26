@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    font-weight: bold;
+    color: white; 
+}
+.clearfix {
+    background-color: blue;
+    overflow: hidden;
+    
+}
+.logo-img { 
+    float: left;
+    max-width: 100%;
+    border-radius: 50%;
+    float: left;
+    margin: 10px;   
+}
+.main-menu {
+    list-style: none;
+    margin: 42px 0 0 0;
+}
+.menu-item {
+    margin: 0 30px 0 50px;
+    float: left;
+}
+.phone {
+    font-weight: bold;
+    margin-right: 35px;
+    float: right;
+}
+
